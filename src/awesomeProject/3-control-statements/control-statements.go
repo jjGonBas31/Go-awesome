@@ -1,7 +1,7 @@
 package main
 
-
 func main(){
+
 	myFunc()
 	sum := 0
 
@@ -28,11 +28,11 @@ func main(){
 	}
 }
 
-// Goto function
-func myFunc(){
+// goto statement, use wisely
+func myFunc(){ // example of an eternal cycle
 	i := 0
-
-	HERE: println(i)
+HERE: // <-- first word on a line ending with a colon is a label
+	println(i)
 	i++
-	goto HERE
+	goto HERE // <-- Jump
 }
