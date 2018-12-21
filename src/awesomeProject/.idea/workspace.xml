@@ -2,17 +2,28 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="893db660-fad9-49ab-8c50-4029a3e7adfa" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/16-ejercicio/exercise_1.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/18-arrays/arrays.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/19-slice/slice.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20-slice-append/append.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/21-slice-copy/slice.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4-arrays-and-map/arrays.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5-strings/strings.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter-1-exercises/exercises.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/JuanJo.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.10-first-web-app/hello-web.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/22-range/range.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/23-map/map.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/24-funciones/clausuras.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/24-funciones/defer.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/24-funciones/funciones-anonimas.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/24-funciones/funciones.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/24-funciones/multiple-return.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/24-funciones/text.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/32-panic-recover/panic-recover.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/34-punteros/punteros.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/35-type.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/36-estructuras/campos-anonimos.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/36-estructuras/estructuras.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter-1-exercises/2-largest-string.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter-1-exercises/3-letter-changes.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter-1-exercises/3-reverse.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter-1-exercises/5-simple-adding.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter-1-exercises/6-letter-capitalize.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter-1-exercises/7-check-nums.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3-control-statements/control-statements.go" beforeDir="false" afterPath="$PROJECT_DIR$/3-control-statements/control-statements.go" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -23,10 +34,13 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/21-slice-copy/slice.go">
+        <entry file="file://$PROJECT_DIR$/1.10-first-web-app/hello-web.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="17" column="4" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="4" />
+            <state relative-caret-position="207">
+              <caret line="9" column="70" selection-start-line="9" selection-start-column="70" selection-end-line="9" selection-end-column="70" />
+              <folding>
+                <element signature="e#14#43#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -53,16 +67,39 @@
         <option value="$PROJECT_DIR$/16-ejercicio/exercise_1.go" />
         <option value="$PROJECT_DIR$/18-arrays/arrays.go" />
         <option value="$PROJECT_DIR$/19-slice/slice.go" />
-        <option value="$PROJECT_DIR$/20-slice-append/append.go" />
         <option value="$PROJECT_DIR$/21-slice-copy/slice.go" />
+        <option value="$PROJECT_DIR$/20-slice-append/append.go" />
+        <option value="$PROJECT_DIR$/chapter-1-exercises/exercises.go" />
+        <option value="$PROJECT_DIR$/22-range/range.go" />
+        <option value="$PROJECT_DIR$/23-map/map.go" />
+        <option value="$PROJECT_DIR$/24-funciones/funciones.go" />
+        <option value="$PROJECT_DIR$/ChatApp/main.go" />
+        <option value="$PROJECT_DIR$/chapter-1-exercises/3-reverse.go" />
+        <option value="$PROJECT_DIR$/chapter-1-exercises/2-largest-string.go" />
+        <option value="$PROJECT_DIR$/chapter-1-exercises/3-letter-changes.go" />
+        <option value="$PROJECT_DIR$/chapter-1-exercises/5-simple-adding.go" />
+        <option value="$PROJECT_DIR$/chapter-1-exercises/6-letter-capitalize.go" />
+        <option value="$PROJECT_DIR$/chapter-1-exercises/7-check-nums.go" />
+        <option value="$PROJECT_DIR$/chapter-1-exercises/8-time-convert.go" />
+        <option value="$PROJECT_DIR$/24-funciones/clausuras.go" />
+        <option value="$PROJECT_DIR$/24-funciones/funciones-anonimas.go" />
+        <option value="$PROJECT_DIR$/24-funciones/text.txt" />
+        <option value="$PROJECT_DIR$/24-funciones/defer.go" />
+        <option value="$PROJECT_DIR$/24-funciones/multiple-return.go" />
+        <option value="$PROJECT_DIR$/32-panic-recover/panic-recover.go" />
+        <option value="$PROJECT_DIR$/34-punteros/punteros.go" />
+        <option value="$PROJECT_DIR$/35-type.go" />
+        <option value="$PROJECT_DIR$/36-estructuras/estructuras.go" />
+        <option value="$PROJECT_DIR$/36-estructuras/campos-anonimos.go" />
+        <option value="$PROJECT_DIR$/1.10-first-web-app/hello-web.go" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1965" />
-    <option name="y" value="-22" />
-    <option name="width" value="1378" />
-    <option name="height" value="735" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -82,7 +119,7 @@
             <path>
               <item name="awesomeProject" type="b2602c69:ProjectViewProjectNode" />
               <item name="awesomeProject" type="462c0819:PsiDirectoryNode" />
-              <item name="16-ejercicio" type="462c0819:PsiDirectoryNode" />
+              <item name="1.10-first-web-app" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -95,8 +132,9 @@
     <property name="DefaultGoTemplateProperty" value="Go File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="go.gopath.indexing.explicitly.defined" value="true" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/Go-awesome" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Documents/es.dic" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.spelling" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -110,73 +148,74 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Go Build.go build append.go">
-    <configuration name="go build append.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Go Build.go build hello-web.go">
+    <configuration name="go build 35-type.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="awesomeProject" />
       <working_directory value="$PROJECT_DIR$/" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/20-slice-append/append.go" />
+      <filePath value="$PROJECT_DIR$/35-type.go" />
       <package value="awesomeProject" />
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
-    <configuration name="go build arrays.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build campos-anonimos.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="awesomeProject" />
       <working_directory value="$PROJECT_DIR$/" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/18-arrays/arrays.go" />
+      <filePath value="$PROJECT_DIR$/36-estructuras/campos-anonimos.go" />
       <package value="awesomeProject" />
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
-    <configuration name="go build control-statements.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build estructuras.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="awesomeProject" />
       <working_directory value="$PROJECT_DIR$/" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/3-control-statements/control-statements.go" />
+      <filePath value="$PROJECT_DIR$/36-estructuras/estructuras.go" />
       <package value="awesomeProject" />
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
-    <configuration name="go build exercise_1.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build hello-web.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="awesomeProject" />
       <working_directory value="$PROJECT_DIR$/" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/16-ejercicio/exercise_1.go" />
+      <filePath value="$PROJECT_DIR$/1.10-first-web-app/hello-web.go" />
       <package value="awesomeProject" />
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
-    <configuration name="go build slice.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build punteros.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="awesomeProject" />
       <working_directory value="$PROJECT_DIR$/" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/19-slice/slice.go" />
+      <filePath value="$PROJECT_DIR$/34-punteros/punteros.go" />
       <package value="awesomeProject" />
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Go Build.go build append.go" />
-        <item itemvalue="Go Build.go build slice.go" />
-        <item itemvalue="Go Build.go build arrays.go" />
-        <item itemvalue="Go Build.go build exercise_1.go" />
-        <item itemvalue="Go Build.go build control-statements.go" />
+        <item itemvalue="Go Build.go build hello-web.go" />
+        <item itemvalue="Go Build.go build campos-anonimos.go" />
+        <item itemvalue="Go Build.go build estructuras.go" />
+        <item itemvalue="Go Build.go build 35-type.go" />
+        <item itemvalue="Go Build.go build punteros.go" />
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" BundledDictionaries="0" Folders="1" Folder0="C:\Users\JuanJo\Documents" CustomDictionaries="1" CustomDictionary0="C:\Users\JuanJo\Documents\es.dic" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="project-level" UseSingleDictionary="true" />
   <component name="ToolWindowManager">
-    <frame x="1358" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.108208954" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17397882" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32998884" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.33333334" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32887402" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.2991453" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39910814" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -196,11 +235,6 @@
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/helloworld.go" />
-    <entry file="file://$PROJECT_DIR$/4-arrays-and-map/arrays.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-253" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/3-control-statements/control-statements.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-545">
@@ -215,23 +249,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/19-slice/slice.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="8">
-          <caret line="13" column="27" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter-1-exercises/exercises.go">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/20-slice-append/append.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="307">
-          <caret line="28" column="32" lean-forward="true" selection-start-line="28" selection-start-column="32" selection-end-line="28" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/16-ejercicio/exercise_1.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="353">
@@ -239,17 +256,204 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/18-arrays/arrays.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-107">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/21-slice-copy/slice.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="391">
           <caret line="17" column="4" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/20-slice-append/append.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="353">
+          <caret line="21" column="42" selection-start-line="21" selection-start-column="42" selection-end-line="21" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/23-map/map.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="426">
+          <caret line="66" selection-start-line="66" selection-end-line="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ChatApp/main.go" />
+    <entry file="file://$PROJECT_DIR$/4-arrays-and-map/arrays.go">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/18-arrays/arrays.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-253">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/19-slice/slice.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="13" column="27" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter-1-exercises/exercises.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-368">
+          <caret line="20" column="23" selection-start-line="20" selection-start-column="23" selection-end-line="20" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter-1-exercises/3-reverse.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter-1-exercises/2-largest-string.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="529">
+          <caret line="26" column="48" lean-forward="true" selection-start-line="26" selection-start-column="48" selection-end-line="26" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter-1-exercises/3-letter-changes.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="14" column="5" lean-forward="true" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+          <folding>
+            <element signature="e#14#42#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter-1-exercises/5-simple-adding.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/22-range/range.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="23" column="38" lean-forward="true" selection-start-line="23" selection-start-column="38" selection-end-line="23" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter-1-exercises/8-time-convert.go" />
+    <entry file="file://$PROJECT_DIR$/chapter-1-exercises/7-check-nums.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="14" column="24" lean-forward="true" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter-1-exercises/6-letter-capitalize.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+          <folding>
+            <element signature="e#14#42#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/24-funciones/funciones.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="477">
+          <caret line="45" column="67" selection-start-line="45" selection-start-column="67" selection-end-line="45" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/24-funciones/clausuras.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="339">
+          <caret line="52" lean-forward="true" selection-start-line="52" selection-end-line="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/24-funciones/funciones-anonimas.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="10" column="33" selection-start-line="10" selection-start-column="33" selection-end-line="10" selection-end-column="33" />
+          <folding>
+            <element signature="e#14#42#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/24-funciones/text.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="18" selection-start-column="18" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/24-funciones/defer.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="201">
+          <caret line="21" column="31" selection-start-line="21" selection-start-column="31" selection-end-line="21" selection-end-column="31" />
+          <folding>
+            <element signature="e#14#37#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/24-funciones/multiple-return.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/32-panic-recover/panic-recover.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="621">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/34-punteros/punteros.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1265">
+          <caret line="55" selection-start-line="55" selection-end-line="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/35-type.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/36-estructuras/estructuras.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="362">
+          <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
+          <folding>
+            <element signature="e#14#42#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/36-estructuras/campos-anonimos.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="211">
+          <caret line="54" lean-forward="true" selection-start-line="54" selection-end-line="54" />
+          <folding>
+            <element signature="e#14#45#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1.10-first-web-app/hello-web.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="9" column="70" selection-start-line="9" selection-start-column="70" selection-end-line="9" selection-end-column="70" />
+          <folding>
+            <element signature="e#14#43#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
